@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SeanAthenapage/static/css/main.63c1198d.chunk.css",
+    "main.js": "/SeanAthenapage/static/js/main.00043762.chunk.js",
+    "main.js.map": "/SeanAthenapage/static/js/main.00043762.chunk.js.map",
+    "runtime-main.js": "/SeanAthenapage/static/js/runtime-main.0642be74.js",
+    "runtime-main.js.map": "/SeanAthenapage/static/js/runtime-main.0642be74.js.map",
+    "static/css/2.04607c25.chunk.css": "/SeanAthenapage/static/css/2.04607c25.chunk.css",
+    "static/js/2.f17d8c57.chunk.js": "/SeanAthenapage/static/js/2.f17d8c57.chunk.js",
+    "static/js/2.f17d8c57.chunk.js.map": "/SeanAthenapage/static/js/2.f17d8c57.chunk.js.map",
+    "index.html": "/SeanAthenapage/index.html",
+    "static/css/2.04607c25.chunk.css.map": "/SeanAthenapage/static/css/2.04607c25.chunk.css.map",
+    "static/css/main.63c1198d.chunk.css.map": "/SeanAthenapage/static/css/main.63c1198d.chunk.css.map",
+    "static/js/2.f17d8c57.chunk.js.LICENSE.txt": "/SeanAthenapage/static/js/2.f17d8c57.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0642be74.js",
+    "static/css/2.04607c25.chunk.css",
+    "static/js/2.f17d8c57.chunk.js",
+    "static/css/main.63c1198d.chunk.css",
+    "static/js/main.00043762.chunk.js"
+  ]
+}
